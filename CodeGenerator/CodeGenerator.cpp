@@ -92,6 +92,8 @@ typedef struct Code
 	Code() :index(0), op(""), opl(""), comma(""), opr(""), next(NULL) {}
 }*ptrcode;
 
+void test() {}
+
 //intתstring
 string IntToString(int temp)
 {
