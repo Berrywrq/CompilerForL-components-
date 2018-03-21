@@ -1,0 +1,7 @@
+while a<c and b<d do
+	if a=1 then c:=c+1 else
+	 while a<=d do a:=a+2;
+var x=1.23;
+var y=123ab5b6zxc777;
+var z=1.23.456;
+var @=123;
